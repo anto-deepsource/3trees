@@ -1,0 +1,16 @@
+{
+  "name": "notion-types",
+  "version": "4.15.0",
+  "description": "TypeScript types for core Notion data structures.",
+  "repository": "NotionX/react-notion-x",
+  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "license": "MIT",
+  "main": "build/cjs/index.js",
+  "module": "build/esm/index.js",
+  "typings": "build/esm/index.d.ts",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=12"
+  },
+  "gitHead": "bc2cf88ddc8e9e328fa428be6158426bdb2b7990"
+}
