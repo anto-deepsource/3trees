@@ -93,6 +93,7 @@
     "react-notion-x": "4.15.0",
     "react-use": "^17.2.4",
     "sharp": "^0.28.3",
+    "shell-quote": "1.7.3",
     "three": "^0.136.0",
     "tslib": "^2.3.1",
     "typescript": "^4.1.3",
